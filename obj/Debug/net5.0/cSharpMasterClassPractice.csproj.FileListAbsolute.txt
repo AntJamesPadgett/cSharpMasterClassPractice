@@ -1,0 +1,16 @@
+C:\Users\antho\repos\cSharpMasterClassPractice\bin\Debug\net5.0\cSharpMasterClassPractice.exe
+C:\Users\antho\repos\cSharpMasterClassPractice\bin\Debug\net5.0\cSharpMasterClassPractice.deps.json
+C:\Users\antho\repos\cSharpMasterClassPractice\bin\Debug\net5.0\cSharpMasterClassPractice.runtimeconfig.json
+C:\Users\antho\repos\cSharpMasterClassPractice\bin\Debug\net5.0\cSharpMasterClassPractice.runtimeconfig.dev.json
+C:\Users\antho\repos\cSharpMasterClassPractice\bin\Debug\net5.0\cSharpMasterClassPractice.dll
+C:\Users\antho\repos\cSharpMasterClassPractice\bin\Debug\net5.0\ref\cSharpMasterClassPractice.dll
+C:\Users\antho\repos\cSharpMasterClassPractice\bin\Debug\net5.0\cSharpMasterClassPractice.pdb
+C:\Users\antho\repos\cSharpMasterClassPractice\obj\Debug\net5.0\cSharpMasterClassPractice.csproj.AssemblyReference.cache
+C:\Users\antho\repos\cSharpMasterClassPractice\obj\Debug\net5.0\cSharpMasterClassPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\cSharpMasterClassPractice\obj\Debug\net5.0\cSharpMasterClassPractice.AssemblyInfoInputs.cache
+C:\Users\antho\repos\cSharpMasterClassPractice\obj\Debug\net5.0\cSharpMasterClassPractice.AssemblyInfo.cs
+C:\Users\antho\repos\cSharpMasterClassPractice\obj\Debug\net5.0\cSharpMasterClassPractice.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\cSharpMasterClassPractice\obj\Debug\net5.0\cSharpMasterClassPractice.dll
+C:\Users\antho\repos\cSharpMasterClassPractice\obj\Debug\net5.0\ref\cSharpMasterClassPractice.dll
+C:\Users\antho\repos\cSharpMasterClassPractice\obj\Debug\net5.0\cSharpMasterClassPractice.pdb
+C:\Users\antho\repos\cSharpMasterClassPractice\obj\Debug\net5.0\cSharpMasterClassPractice.genruntimeconfig.cache
